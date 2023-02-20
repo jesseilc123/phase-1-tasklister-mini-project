@@ -35,3 +35,17 @@ button {
   border-radius: 5px;
   box-shadow: 2px 5px 5px #333;
 }
+
+/* this is my code */
+#high{
+  background-color: red;
+}
+
+#med{
+  background-color: yellow;
+}
+
+#low{
+  background-color: green;
+}
+/* this is my code */
